@@ -1,0 +1,17 @@
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/GenericDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/models/Supplier.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/models/Admin.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/models/Resource.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/SupplierDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/AdminDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/AbstractDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/services/AuthenticationService.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/TaskDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/controllers/LoginServlet.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/ProjectDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/models/Project.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/utils/HibernateUtil.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/dao/ResourceDAO.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/models/Task.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/services/ProjectService.java
+/Users/yassineel-aniq/Desktop/contruction_projet/src/main/java/com/constructionxpert/filters/AuthenticationFilter.java

@@ -1,0 +1,16 @@
+com/constructionxpert/models/Resource.class
+com/constructionxpert/dao/ResourceDAO.class
+com/constructionxpert/dao/TaskDAO.class
+com/constructionxpert/services/ProjectService.class
+com/constructionxpert/models/Task.class
+com/constructionxpert/models/Admin.class
+com/constructionxpert/services/AuthenticationService.class
+com/constructionxpert/models/Supplier.class
+com/constructionxpert/dao/ProjectDAO.class
+com/constructionxpert/filters/AuthenticationFilter.class
+com/constructionxpert/models/Project.class
+com/constructionxpert/dao/SupplierDAO.class
+com/constructionxpert/dao/GenericDAO.class
+com/constructionxpert/dao/AbstractDAO.class
+com/constructionxpert/dao/AdminDAO.class
+com/constructionxpert/utils/HibernateUtil.class
